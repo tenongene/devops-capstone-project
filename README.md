@@ -1,5 +1,9 @@
 # DevOps Capstone Template
 
+
+[![CI Build](https://github.com/tenongene/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg?branch=add-ci-build)](https://github.com/tenongene/devops-capstone-project/actions/workflows/ci-build.yaml)
+
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
