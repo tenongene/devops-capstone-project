@@ -1,4 +1,5 @@
 from flask_talisman import Talisman
+from flask_cors import CORS
 
 """
 Package: service
@@ -17,6 +18,9 @@ app.config.from_object(config)
 
 # Talisman app
 talisman = Talisman(app)
+
+# Cors
+CORS(app)
 
 # Import the routes After the Flask app is created
 # pylint: disable=wrong-import-position, cyclic-import, wrong-import-order
