@@ -27,3 +27,9 @@ codecov==2.1.12
 
 # Utilities
 httpie==3.2.1
+
+# header check
+flask-talisman==1.0.0
+
+#CORS
+flask-cors==3.0.10
